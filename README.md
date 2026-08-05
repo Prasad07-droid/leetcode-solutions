@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prasad07-droid/leetcode-solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Prasad07-droid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Prasad07-droid/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Prasad07-droid/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prasad07-droid/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Prasad07-droid/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
